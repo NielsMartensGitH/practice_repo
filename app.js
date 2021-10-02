@@ -1,4 +1,4 @@
-let = "Hello World"
+let greeting= "Hello World"
 
 function countDown(num) {
     while (num > 0) {
@@ -8,3 +8,5 @@ function countDown(num) {
 }
 
 countDown(6)
+
+console.log(greeting)
